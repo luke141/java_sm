@@ -103,6 +103,8 @@ public class ArrayRandomEx2 {
 		}
 		
 		int count = 0;
+		int i;
+		
 		while(count < 3) {
 			int random = (int)(Math.random()*(max - min + 1) + min);
 			//중복되지 않으면 배열에 저장 후 count 증가
