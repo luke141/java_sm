@@ -1,6 +1,6 @@
 package day1.variable;
 
-public class intexample1 {
+public class IntExample1 {
 
 	public static void main(String[] args) {
 		int num2 = 11;	//십진수 11
@@ -15,7 +15,6 @@ public class intexample1 {
 		//1234567890123은 int로 표현할 수 없는 큰 숫자
 		//long 타입에 큰 숫자를 저장할 경우 리터럴에 L 또는 l을 반드시 붙여야 함
 		long num6 = 1234567890123L;
-
 	}
 
 }
